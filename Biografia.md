@@ -22,7 +22,7 @@ Hola! Me llamo Nelson.
       •Mi nombre completo es:Nelson Riardo Valencia Navarro. 
       •Padre de un hermoso niño llamado: Bruno Ricardo Valencia Paredes.
       
-      ![descarga uno]({{ site.baseurl }}/images/bruno.jpg)
+      ![descarga uno]({{ site.baseurl }}/images/bruno2.jpg)
       
  
 Estudiante de UNIVERSIDAD DE GUAYAQUIL     
