@@ -1,7 +1,7 @@
 ---
 layout:  page
-title:  Temas de clase
-permalink: /Temas de clase/
+title:  clases
+permalink: /clases/
 ---
 
 ## Objetivos de la IS
